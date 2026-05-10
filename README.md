@@ -1,4 +1,4 @@
-# Ultra Premium Image Gallery
+#Image Gallery
 
 A modern responsive image gallery built using HTML, CSS, and JavaScript.
 
